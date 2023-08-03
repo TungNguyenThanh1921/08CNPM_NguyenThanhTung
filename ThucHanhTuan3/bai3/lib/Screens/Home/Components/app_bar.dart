@@ -42,21 +42,10 @@ class CustomAppBar extends StatelessWidget {
             press: () {},
           ),
           MenuItem(
-            title: "Pricing",
+            title: "Price",
             press: () {},
           ),
-          MenuItem(
-            title: "Contact",
-            press: () {},
-          ),
-          MenuItem(
-            title: "Login",
-            press: () {},
-          ),
-          DefaultButton(
-            text: "Get Started",
-            press: () {},
-          ),
+
         ],
       ),
     );
